@@ -1,5 +1,18 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Rosa O'Reilly",
+      "id": 2
+    },
+    {
+      "name": "Jordan Bode",
+      "id": 3
+    }
+  ],
   "albums": [],
   "photos": []
 }
