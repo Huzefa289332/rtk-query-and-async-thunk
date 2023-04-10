@@ -15,30 +15,51 @@
   ],
   "albums": [
     {
-      "id": 1,
-      "title": "Hiking Trip",
-      "userId": 1
-    },
-    {
-      "userId": 1,
-      "title": "Incredible Frozen Bike",
-      "id": 2
-    },
-    {
       "userId": 1,
       "title": "Generic Rubber Bacon",
       "id": 3
     },
     {
-      "userId": 2,
-      "title": "Fantastic Metal Computer",
-      "id": 4
-    },
-    {
       "userId": 3,
       "title": "Ergonomic Wooden Car",
       "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Refined Concrete Cheese",
+      "id": 7
+    },
+    {
+      "userId": 2,
+      "title": "Oriental Metal Chair",
+      "id": 8
+    },
+    {
+      "userId": 2,
+      "title": "Elegant Fresh Bacon",
+      "id": 9
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4348",
+      "id": 1
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6854",
+      "id": 4
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=39828",
+      "id": 5
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=26069",
+      "id": 6
+    }
+  ]
 }
