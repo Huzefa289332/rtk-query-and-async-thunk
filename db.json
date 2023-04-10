@@ -7,8 +7,38 @@
     {
       "name": "Rosa O'Reilly",
       "id": 2
+    },
+    {
+      "name": "Bobby Jerde",
+      "id": 3
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Frozen Bike",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Generic Rubber Bacon",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "title": "Fantastic Metal Computer",
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "title": "Ergonomic Wooden Car",
+      "id": 5
+    }
+  ],
   "photos": []
 }
